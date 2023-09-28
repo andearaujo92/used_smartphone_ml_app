@@ -2,6 +2,7 @@ library(shiny)
 library(shinydashboard)
 library(tidymodels)
 library(tidyverse)
+library(glmnet)
 
 model_lr <- readRDS(file = "final_linear_reg_model.rds")
 os <- c("Android","Others","iOS","Windows")
