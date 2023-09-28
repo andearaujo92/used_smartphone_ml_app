@@ -4,8 +4,7 @@ library(tidymodels)
 library(tidyverse)
 
 model_lr <- readRDS(file = "final_linear_reg_model.rds")
-brands <- unique(df$device_brand)
-os <- unique(df$os)
+os <- c("Android","Others","iOS","Windows")
 
 ui <- dashboardPage(
   dashboardHeader(),
