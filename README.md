@@ -1,10 +1,10 @@
 # Used Smartphone Price Prediction
 
 ## Obejtivo
-O Objetivo desse projeto foi explorar dados de celulares usados e criar uma previsão com base nas cariáveis apresentadas nos dados.
+O Objetivo desse projeto foi explorar dados de celulares usados e criar uma previsão com base nas variáveis apresentadas nos dados.
 
 ## Tarefas
-Explorar os dados, criar as visualizações e fazer a seleção das melhores variáveis, evitando a multicolinearidade, levou um tempo razoável.
+Explorar os dados, criar as visualizações e fazer a seleção das melhores variáveis, evitando a multicolinearidade, levou um tempo razoáve.
 No entanto é um trabalho muito importante que não pode ser ignorado. Após todos os passos um simples modelo de regressão linear obteve os melhores resultados.
 
 ## App Shiny
